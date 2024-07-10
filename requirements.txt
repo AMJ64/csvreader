@@ -5,5 +5,5 @@ groq
 seaborn
 dash
 plotly
-sklearn
+scikit-learn
 streamlit
