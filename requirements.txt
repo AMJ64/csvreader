@@ -3,5 +3,6 @@ numpy
 matplotlib
 groq
 seaborn
+dash
 plotly
 streamlit
