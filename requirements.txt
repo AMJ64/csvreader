@@ -5,4 +5,5 @@ groq
 seaborn
 dash
 plotly
+sklearn
 streamlit
